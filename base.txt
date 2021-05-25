@@ -1,0 +1,9 @@
+d d1 rwx r-x root 0 1  1
+d d2 rwx r-x root 0 1  2
+d d3 rwx r-x root 0 2  3
+a b rwx r-x 5 d3/ 6
+d dir r-x rwx root 0 1  4
+a a1 rwx r-x 4 dir/ 7
+a a rwx r-x 4 dir/ 8
+a b rwx r-x 6 dir/ 9
+a archivo rwx r-x 5 dir/ 10
