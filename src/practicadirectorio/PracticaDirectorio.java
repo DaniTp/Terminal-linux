@@ -49,7 +49,8 @@ public class PracticaDirectorio {
     }
     
     
-    void menu(){                
+    void menu(){  
+        System.out.println("Creando usuarios, en rama versión 2.0");
         Usuario root = new Usuario("root","root123",1);
     Usuario Daniel = new Usuario("danieltp","daniel123",0);
     Usuario Lili = new Usuario("lilicz","lili123",0);
